@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadinaMaki
+- 👋 Hi, I’m Madina.
 - 👀 I’m interested in programming, design.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 📫 How to reach me: https://vk.com/makishii

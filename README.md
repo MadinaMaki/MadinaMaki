@@ -21,5 +21,5 @@ Social Links
 [![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/makishii)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/makishii)
 
-- 🔭 На данный момент я пишу свой выпускной проект
-- 🔭 I am currently writing my own project
+- 🔭 На данный момент я пишу свой выпускной проект [Frost-Auto](https://github.com/MadinaMaki/Frost-Auto)
+- 🔭 I am currently writing my own project [Frost-Auto](https://github.com/MadinaMaki/Frost-Auto)

@@ -17,7 +17,7 @@
 ![FIGMA](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 ![webStorm](https://img.shields.io/badge/-webstorm-090909?style=for-the-badge&logo=webstorm)
 
-###Social Links
+### Social Links
 
 [![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/makishii)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/makishii)

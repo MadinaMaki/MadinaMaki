@@ -22,5 +22,5 @@
 [![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/makishii)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/makishii)
 
-- 🔭 На данный момент я пишу свой выпускной проект [Frost-Auto]([https://github.com/MadinaMaki/Frost-Auto](https://github.com/MadinaMaki/frost)). Интернет-магазин авто-запчастей.
-- 🔭 I am currently writing my own project [Frost-Auto]([https://github.com/MadinaMaki/Frost-Auto](https://github.com/MadinaMaki/frost)https://github.com/MadinaMaki/frost). Online car parts store.
+- 🔭 На данный момент я пишу свой выпускной проект [Frost-Auto]([[https://github.com/MadinaMaki/frost]). Интернет-магазин авто-запчастей.
+- 🔭 I am currently writing my own project [Frost-Auto]([https://github.com/MadinaMaki/frost]). Online car parts store.

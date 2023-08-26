@@ -23,4 +23,4 @@
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/makishii)
 
 - 🔭 На данный момент я пишу свой выпускной проект [frost](https://github.com/MadinaMaki/frost). Интернет-магазин автомобильных запчастей
-- 🔭 I am currently writing my own project [frost](https://github.com/MadinaMaki/frost). Online car parts store
+- 🔭 I am currently writing my own project [frost](https://github.com/MadinaMaki/frost). Car parts online store

@@ -1,7 +1,7 @@
-<h1 align="center">Привет!<br/> Hello!</h1>
+<h3 align="center">Привет!<br/> Hello!</h3>
 
-- 🌱 I'm beginner Frontend developer from Kazakhstan. Student of [Runtime coding school](https://runtime.kz/) and [JustCode Academy Almaty](https://justcode.kz/)
-- 🌱 Я начинающий Фронтенд разработчик из Казахстана. На данный момент завершаю обучение в школе программирования [Runtime](https://runtime.kz/), а так же являюсь выпускником [академии JustCode](https://justcode.kz/)
+- 🌱 Frontend developer. Student of [Runtime coding school](https://runtime.kz/) and [JustCode Academy Almaty](https://justcode.kz/)
+- 🌱 Фронтенд разработчик. Выпускник школы [Runtime](https://runtime.kz/) и [академии JustCode](https://justcode.kz/)
 
 ### Languages & Tools
 
@@ -21,6 +21,3 @@
 
 [![vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/makishii)
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/makishii)
-
-- 🔭 На данный момент я пишу свой выпускной проект [frost](https://github.com/MadinaMaki/frost). Интернет-магазин автомобильных запчастей
-- 🔭 I am currently writing my own project [frost](https://github.com/MadinaMaki/frost). Car parts online store
